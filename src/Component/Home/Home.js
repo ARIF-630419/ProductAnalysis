@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import "./Home.css"
 import image from "../../images/laptop.PNG"
 import useReviews from '../../hooks/useReviews';
@@ -9,6 +9,11 @@ import { useNavigate } from 'react-router-dom';
 const Home = () => {
     const [reviews, setReviews] = useReviews();
     const navigate = useNavigate();
+    useEffect(() => {
+        fetch("Review.json")
+            .then(res => res.json())
+            .then(data => setReviews(data))
+    }, []);
     const showReviews = () => {
         const path = "/reviews";
         navigate(path);
