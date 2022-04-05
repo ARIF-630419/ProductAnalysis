@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": " Md. Ariful Islam ",
+    "text": "The Asus ProArt Studiobook 16 is an impressive laptop made with content creators in mind, from its versatile input dial and 4K OLED screen to its high-flying AMD and Nvidia components.",
+    "rating": "5/4"
+  },
+  {
+    "id": "2",
+    "name": "Md. Tarikul Islam",
+    "text": "It could stand a price cut, but the 14-inch, 2.3-pound Asus Chromebook CX9 is the very model of a capable business Chromebook.",
+    "rating": "5/4.5"
+  },
+  {
+    "id": "3",
+    "name": "Likhon",
+    "text": "The Zephyrus S17 is a highly capable 17.3-inch gaming machine with exotic touches and a supercar price.",
+    "rating": "5/4.2"
+  },
+  {
+    "id": "4",
+    "name": "Sommiddho Ayat ",
+    "text": "The Asus VivoBook 17 M712 offers enough AMD Ryzen-based muscle to make light of simple tasks, and its 17-inch screen and stylish silver chassis belie a very attractive price",
+    "rating": "5/4.3"
+  },
+  {
+    "id": "5",
+    "name": "Ahonaf Taomid ",
+    "text": "The Asus Chromebook Detachable CM3 is a capable 10-inch tablet with an included keyboard and cover. If only the build quality matched the asking price.",
+    "rating": "5/4.7"
+  },
+  {
+    "id": "6",
+    "name": "Md. Shariful Islam",
+    "text": "The business-focused Asus ExpertBook B9450CEA is a trim and light laptop with some pep in its step, plus nice hardware and software extras.",
+    "rating": "5/4.8"
+  }
+]
