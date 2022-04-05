@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Project Name: Asus Laptop Reviews
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Website link: [https://clinquant-speculoos-3b31b7.netlify.app/about].
+* customer reviews. 
+* Asus laptop about into about route. 
+* dashboard into 2 chart add.
+* blogs into some answer.
 
 ## Available Scripts
 
