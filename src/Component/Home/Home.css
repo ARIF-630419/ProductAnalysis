@@ -1,0 +1,31 @@
+.home-container {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    align-items: center;
+    margin: 20px;
+}
+
+.text-container {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.large {
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 10px;
+}
+
+.color {
+    color: green;
+}
+
+.text-contant {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.picture-container {
+    margin: 20px;
+    padding: 20px;
+}
