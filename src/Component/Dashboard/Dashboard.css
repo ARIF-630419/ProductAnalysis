@@ -1,0 +1,11 @@
+.Half {
+    display: flex;
+    grid-template-columns: 2fr 2fr;
+    grid-gap: 150px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.Half h1 {
+    color: blueviolet;
+}
