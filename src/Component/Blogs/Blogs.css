@@ -1,0 +1,11 @@
+.text-contant {
+    text-align: justify;
+    font-size: 18px;
+    margin: 10px 30px;
+    padding: 10px 30px;
+}
+
+.bold {
+    text-decoration: underline;
+    font-weight: bold;
+}
